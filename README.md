@@ -66,8 +66,7 @@ Languages and Tools I'm well-versed at:
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
     <!-- React/Native-->
-    <img alt="React" title="React" src="https://img.shields.io/badge/React-informational
-?style=flat&logo=React&logoColor=white&color=13A9FF">
+    <img alt="React" title="React" src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=13A9FF">
     <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <!-- CSS -->
