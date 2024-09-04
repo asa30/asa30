@@ -63,6 +63,10 @@ Languages and Tools I'm well-versed at:
     <a href="https://www.docker.com/">
         <img alt="Docker" title="An open platform for developing, shipping, and running applications" src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED">
     </a>
+    <!-- Expo --> 
+    <a href="https://expo.dev/">
+        <img alt="Expo" title="An open-source framework for making universal native apps with react" src="https://img.shields.io/badge/Expo-informational?style=flat&logo=expo&logoColor=white&color=000020">
+    </a>
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
     <!-- React/Native-->
