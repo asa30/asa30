@@ -1,9 +1,5 @@
 <h2 align="center">Hi, I'm Ahmed</h2>
 
-<div align="center">
-	<img alt = "Heriot-Watt" src = "https://cdn.freebiesupply.com/logos/large/2x/heriot-watt-university-logo-png-transparent.png" height = 400>
-</div>
-
 I'm a Computer Science (Data Science) Graduate from Heriot-Watt with a First Class Honours Degree.
 
 Feel free to contanct me via:
@@ -11,9 +7,6 @@ Feel free to contanct me via:
 <div align="center">
     <a href="https://www.linkedin.com/in/ahmed-moussa-abdelfattah/">
         <img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2">
-    </a>
-    <a href="mailto:asa30@hw.ac.uk">
-        <img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/mail-informational?style=flat&logo=gmail&logoColor=white&color=0078D4">
     </a>
     <a href="mailto:a.abdelfattah@gmail.com">
         <img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/mail-informational?style=flat&logo=gmail&logoColor=white&color=EA4335">
@@ -69,6 +62,10 @@ Languages and Tools I'm well-versed at:
     </a>
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- TypeScript --> 
+    <img alt="TS" title="TypeScript" src="https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=black&color=3178C6">
+    <!-- Vercel -->
+    <img alt="Vercel" title="Vercel" src="https://img.shields.io/badge/Vercel-informational?style=flat&logo=vercel&logoColor=white&color=000000">
     <!-- React/Native-->
     <img alt="React" title="React" src="https://img.shields.io/badge/React-informational?style=flat&logo=React&logoColor=white&color=13A9FF">
     <!-- HTML -->
@@ -77,6 +74,8 @@ Languages and Tools I'm well-versed at:
     <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=1572B6">
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat&logo=C&logoColor=black&color=A8B9CC">
+    <!-- C Programming language -->
+    <img alt="C#" title="C# Programming Language" src="https://img.shields.io/badge/CSharp-informational?style=flat&logo=.net&logoColor=black&color=512BD4">
     <!-- Azure -->
     <a href="https://azure.microsoft.com/en-us">
         <img alt="Azure" title="Azure Cloud Computing" src="https://img.shields.io/badge/Azure-informational?style=flat&logo=aframe&logoColor=white&color=4285f4">
@@ -90,15 +89,11 @@ Languages and Tools I'm well-versed at:
         <img alt="Figma" title="Prototyping Tool" src="https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white&color=A259FF&">
     </a>
     <!-- Android -->
-    <a href="https://www.figma.com/">
+    <a href="https://www.android.com/">
         <img alt="Android" title="Mobile Development" src="https://img.shields.io/badge/Android-informational?style=flat&logo=Android&logoColor=white&color=#34A853&">
     </a>
     <!-- Markdown -->
     <img alt="Markdown" title="Markup Language to format text" src="https://img.shields.io/badge/Markdown-informational?style=flat&logo=markdown&logoColor=white&color=000000">
-    <!-- Microsoft Windows OS -->
-    <a href="https://www.microsoft.com/en-us/windows">
-        <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6">
-    </a>
     <!-- Linux -->
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624">
 </p>
